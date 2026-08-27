@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>uxn</title>
+    <link>https://tap6.github.io/uxn</link>
+    <description>对世界抱有敬意</description>
+    <language>zh-CN</language>
+    <generator>GitPress</generator>
+    <item>
+      <title>Hello, world</title>
+      <link>https://tap6.github.io/uxn/posts/hello-world/</link>
+      <guid>https://tap6.github.io/uxn/posts/hello-world/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+      <description>My first post on GitPress.</description>
+    </item>
+    <item>
+      <title>test</title>
+      <link>https://tap6.github.io/uxn/posts/test/</link>
+      <guid>https://tap6.github.io/uxn/posts/test/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是篇测试文章</title>
+      <link>https://tap6.github.io/uxn/posts/这是篇测试文章/</link>
+      <guid>https://tap6.github.io/uxn/posts/这是篇测试文章/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
