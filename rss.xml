@@ -7,15 +7,15 @@
     <language>zh-CN</language>
     <generator>GitPress</generator>
     <item>
-      <title>this is a test text 文章</title>
-      <link>https://tap6.github.io/uxn/posts/this-is-a-test-text-文章/</link>
-      <guid>https://tap6.github.io/uxn/posts/this-is-a-test-text-文章/</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>测试文章2</title>
       <link>https://tap6.github.io/uxn/posts/测试文章2/</link>
       <guid>https://tap6.github.io/uxn/posts/测试文章2/</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>this is a test text 文章</title>
+      <link>https://tap6.github.io/uxn/posts/this-is-a-test-text-文章/</link>
+      <guid>https://tap6.github.io/uxn/posts/this-is-a-test-text-文章/</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
