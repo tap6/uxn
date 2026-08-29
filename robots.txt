@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tap6.github.io/uxn/sitemap.xml
