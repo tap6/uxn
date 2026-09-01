@@ -2,63 +2,63 @@
 <rss version="2.0">
   <channel>
     <title>uxn</title>
-    <link>https://tap6.github.io/uxn</link>
+    <link>https://uxn.cc</link>
     <description>对世界抱有敬意</description>
     <language>zh-CN</language>
     <generator>GitPress</generator>
     <item>
       <title>漢2</title>
-      <link>https://tap6.github.io/uxn/posts/漢2/</link>
-      <guid>https://tap6.github.io/uxn/posts/漢2/</guid>
+      <link>https://uxn.cc/posts/漢2/</link>
+      <guid>https://uxn.cc/posts/漢2/</guid>
       <pubDate>Sun, 30 Aug 2026 19:51:59 GMT</pubDate>
     </item>
     <item>
       <title>漢</title>
-      <link>https://tap6.github.io/uxn/posts/漢/</link>
-      <guid>https://tap6.github.io/uxn/posts/漢/</guid>
+      <link>https://uxn.cc/posts/漢/</link>
+      <guid>https://uxn.cc/posts/漢/</guid>
       <pubDate>Sun, 30 Aug 2026 19:51:07 GMT</pubDate>
     </item>
     <item>
       <title>this is a test text 文章</title>
-      <link>https://tap6.github.io/uxn/posts/this-is-a-test-text-文章/</link>
-      <guid>https://tap6.github.io/uxn/posts/this-is-a-test-text-文章/</guid>
+      <link>https://uxn.cc/posts/this-is-a-test-text-文章/</link>
+      <guid>https://uxn.cc/posts/this-is-a-test-text-文章/</guid>
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>测试文章2</title>
-      <link>https://tap6.github.io/uxn/posts/测试文章2/</link>
-      <guid>https://tap6.github.io/uxn/posts/测试文章2/</guid>
+      <link>https://uxn.cc/posts/测试文章2/</link>
+      <guid>https://uxn.cc/posts/测试文章2/</guid>
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Hello, world</title>
-      <link>https://tap6.github.io/uxn/posts/hello-world/</link>
-      <guid>https://tap6.github.io/uxn/posts/hello-world/</guid>
+      <link>https://uxn.cc/posts/hello-world/</link>
+      <guid>https://uxn.cc/posts/hello-world/</guid>
       <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
       <description>My first post on GitPress.</description>
     </item>
     <item>
       <title>test</title>
-      <link>https://tap6.github.io/uxn/posts/test/</link>
-      <guid>https://tap6.github.io/uxn/posts/test/</guid>
+      <link>https://uxn.cc/posts/test/</link>
+      <guid>https://uxn.cc/posts/test/</guid>
       <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>这是篇测试文章</title>
-      <link>https://tap6.github.io/uxn/posts/这是篇测试文章/</link>
-      <guid>https://tap6.github.io/uxn/posts/这是篇测试文章/</guid>
+      <link>https://uxn.cc/posts/这是篇测试文章/</link>
+      <guid>https://uxn.cc/posts/这是篇测试文章/</guid>
       <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>INTP</title>
-      <link>https://tap6.github.io/uxn/posts/intp/</link>
-      <guid>https://tap6.github.io/uxn/posts/intp/</guid>
+      <link>https://uxn.cc/posts/intp/</link>
+      <guid>https://uxn.cc/posts/intp/</guid>
       <pubDate>Sat, 28 Feb 2026 15:26:50 GMT</pubDate>
     </item>
     <item>
       <title>资本收割</title>
-      <link>https://tap6.github.io/uxn/posts/资本收割/</link>
-      <guid>https://tap6.github.io/uxn/posts/资本收割/</guid>
+      <link>https://uxn.cc/posts/资本收割/</link>
+      <guid>https://uxn.cc/posts/资本收割/</guid>
       <pubDate>Mon, 19 Oct 2020 14:05:54 GMT</pubDate>
     </item>
   </channel>
