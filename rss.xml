@@ -31,12 +31,6 @@
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>test</title>
-      <link>https://tap6.github.io/uxn/posts/test/</link>
-      <guid>https://tap6.github.io/uxn/posts/test/</guid>
-      <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Hello, world</title>
       <link>https://tap6.github.io/uxn/posts/hello-world/</link>
       <guid>https://tap6.github.io/uxn/posts/hello-world/</guid>
@@ -44,10 +38,22 @@
       <description>My first post on GitPress.</description>
     </item>
     <item>
+      <title>test</title>
+      <link>https://tap6.github.io/uxn/posts/test/</link>
+      <guid>https://tap6.github.io/uxn/posts/test/</guid>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>这是篇测试文章</title>
       <link>https://tap6.github.io/uxn/posts/这是篇测试文章/</link>
       <guid>https://tap6.github.io/uxn/posts/这是篇测试文章/</guid>
       <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>INTP</title>
+      <link>https://tap6.github.io/uxn/posts/intp/</link>
+      <guid>https://tap6.github.io/uxn/posts/intp/</guid>
+      <pubDate>Sat, 28 Feb 2026 15:26:50 GMT</pubDate>
     </item>
     <item>
       <title>资本收割</title>
