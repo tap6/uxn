@@ -31,17 +31,17 @@
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>test</title>
+      <link>https://tap6.github.io/uxn/posts/test/</link>
+      <guid>https://tap6.github.io/uxn/posts/test/</guid>
+      <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Hello, world</title>
       <link>https://tap6.github.io/uxn/posts/hello-world/</link>
       <guid>https://tap6.github.io/uxn/posts/hello-world/</guid>
       <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
       <description>My first post on GitPress.</description>
-    </item>
-    <item>
-      <title>test</title>
-      <link>https://tap6.github.io/uxn/posts/test/</link>
-      <guid>https://tap6.github.io/uxn/posts/test/</guid>
-      <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>这是篇测试文章</title>
